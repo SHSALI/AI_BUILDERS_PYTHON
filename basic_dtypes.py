@@ -17,3 +17,4 @@ a=int(1.5) #Casting float to int
 b=int(2.7) #Casting float to int
 print(a)
 print(b)
+
