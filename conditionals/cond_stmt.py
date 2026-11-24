@@ -34,7 +34,7 @@ if age >= 18:
     if university_student: # == True 
         print("You are an adult and a university student") # cond 1 and cond 2 both are true
     else :
-        print("You are an adult but not a university student") # cond 1 is true, but cond 2 is false , and same in the reverse side.....
+        print("You are an adult but not a university student") # cond 1 is true, but cond 2 is false 
+else :  # Exit because the age it below 18  and the first condition is false so it will not check the second condition and 
+    print("You are not an adult") 
     
-else :
-    print("You are not an adult")
